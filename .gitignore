@@ -1,0 +1,32 @@
+# Input data — see data/README.md for download instructions
+data/All_Pure_150k.bed
+data/All_Pure_150k.bim
+data/All_Pure_150k.fam
+
+# Parker assets — derived from Parker 2017 supplementary; notebook fetches them
+data/parker_clades.csv
+data/parker_tree/
+
+# Heavy intermediate results (regenerable)
+results/admixture/
+results/cache/
+results/embeddings/
+results/qc/
+results/sample/
+
+# Run logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.tools/
+.ipynb_checkpoints/
+*.executed.ipynb
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/

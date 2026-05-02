@@ -1,0 +1,40 @@
+{
+  "n_inliers": [
+    5,
+    10,
+    15,
+    30,
+    50,
+    75,
+    100
+  ],
+  "n_outliers": [
+    4,
+    8,
+    15,
+    20,
+    30
+  ],
+  "distances": [
+    "euclidean",
+    "angular",
+    "manhattan"
+  ],
+  "weight_temps": [
+    0.1,
+    0.25,
+    0.5
+  ],
+  "n_components": [
+    2,
+    3
+  ],
+  "seeds": [
+    7,
+    42,
+    99,
+    123,
+    256
+  ],
+  "num_runs": 3150
+}

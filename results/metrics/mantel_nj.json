@@ -1,0 +1,110 @@
+{
+  "reference": "parker_2017_patristic_breed_mean",
+  "reference_meta": {
+    "tree_tip_count": 1355,
+    "reference_breed_count": 177,
+    "mapped_by_iid_count": 1352,
+    "mapped_by_suffix_count": 3,
+    "mapped_by_prefix_count": 0
+  },
+  "per_method_mantel_r": {
+    "UMAP": 0.3891235971642601,
+    "PaCMAP": 0.29154845796584,
+    "t-SNE": 0.4903167077711975,
+    "TriMAP": -0.00206350763057034,
+    "PHATE": 0.3709828118901891,
+    "PhyloAE": 0.5878219292219391
+  },
+  "per_method_mantel": {
+    "UMAP": {
+      "euclidean_pearson": 0.3891235971642601,
+      "euclidean_spearman": 0.364593634442159,
+      "manhattan_pearson": 0.3793582486983369,
+      "manhattan_spearman": 0.35190247422294635
+    },
+    "PaCMAP": {
+      "euclidean_pearson": 0.29154845796584,
+      "euclidean_spearman": 0.2648602655098464,
+      "manhattan_pearson": 0.28670213171994363,
+      "manhattan_spearman": 0.25639515833946186
+    },
+    "t-SNE": {
+      "euclidean_pearson": 0.4903167077711975,
+      "euclidean_spearman": 0.47457741408229803,
+      "manhattan_pearson": 0.485441297507034,
+      "manhattan_spearman": 0.46847770485214324
+    },
+    "TriMAP": {
+      "euclidean_pearson": -0.00206350763057034,
+      "euclidean_spearman": 0.28341004726204905,
+      "manhattan_pearson": -0.0008491437079419044,
+      "manhattan_spearman": 0.29490092573044796
+    },
+    "PHATE": {
+      "euclidean_pearson": 0.3709828118901891,
+      "euclidean_spearman": 0.3960022943990429,
+      "manhattan_pearson": 0.40753809497465004,
+      "manhattan_spearman": 0.4115172748150358
+    },
+    "PhyloAE": {
+      "euclidean_pearson": 0.5878219292219391,
+      "euclidean_spearman": 0.5707122203574009,
+      "manhattan_pearson": 0.5841897960860952,
+      "manhattan_spearman": 0.5732079719559436
+    }
+  },
+  "p_values": {
+    "UMAP": {
+      "euclidean_pearson": 0.0,
+      "euclidean_spearman": 0.0,
+      "manhattan_pearson": 0.0,
+      "manhattan_spearman": 0.0
+    },
+    "PaCMAP": {
+      "euclidean_pearson": 5.017698827956627e-296,
+      "euclidean_spearman": 9.091350794078475e-243,
+      "manhattan_pearson": 6.55451994278088e-286,
+      "manhattan_spearman": 4.188652440910755e-227
+    },
+    "t-SNE": {
+      "euclidean_pearson": 0.0,
+      "euclidean_spearman": 0.0,
+      "manhattan_pearson": 0.0,
+      "manhattan_spearman": 0.0
+    },
+    "TriMAP": {
+      "euclidean_pearson": 0.7990360741219437,
+      "euclidean_spearman": 3.7539951499912955e-279,
+      "manhattan_pearson": 0.91656074249712,
+      "manhattan_spearman": 3.846953656906563e-303
+    },
+    "PHATE": {
+      "euclidean_pearson": 0.0,
+      "euclidean_spearman": 0.0,
+      "manhattan_pearson": 0.0,
+      "manhattan_spearman": 0.0
+    },
+    "PhyloAE": {
+      "euclidean_pearson": 0.0,
+      "euclidean_spearman": 0.0,
+      "manhattan_pearson": 0.0,
+      "manhattan_spearman": 0.0
+    }
+  },
+  "dimensions_used": {
+    "UMAP": 3,
+    "PaCMAP": 3,
+    "t-SNE": 2,
+    "TriMAP": 3,
+    "PHATE": 3,
+    "PhyloAE": 3
+  },
+  "shared_breed_counts": {
+    "UMAP": 175,
+    "PaCMAP": 175,
+    "t-SNE": 175,
+    "TriMAP": 175,
+    "PHATE": 175,
+    "PhyloAE": 175
+  }
+}

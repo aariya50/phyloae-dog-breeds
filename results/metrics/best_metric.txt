@@ -1,0 +1,14 @@
+winner_metric=euclidean
+run_id=phyloae_h1024x128_lr0p001_lb0p1_lc0p1_seed789_2d
+embedding_csv=results/embeddings/phyloae_h1024x128_lr0p001_lb0p1_lc0p1_seed789_2d.csv
+mantel_pearson=0.582125
+mantel_spearman=0.552574
+parker_concordance=0.514286
+trustworthiness=0.885284
+silhouette_breed=0.794290
+composite=1.679575
+
+# Per-metric (best 2D config)
+euclidean: mantel_r=0.5821 parker=51.43% trust=0.8853 composite=1.6796 run_id=phyloae_h1024x128_lr0p001_lb0p1_lc0p1_seed789_2d
+manhattan: mantel_r=0.4301 parker=65.14% trust=0.9007 composite=1.6834 run_id=phyloae_manhattan_h1024x128_lr0p001_lb0p1_lc1p0_seed42_2d
+cosine: mantel_r=0.5159 parker=47.43% trust=0.9070 composite=1.7279 run_id=phyloae_cosine_h1024x128_lr0p001_lb1p0_lc1p0_seed42_2d

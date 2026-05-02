@@ -1,0 +1,1824 @@
+{
+  "tree_stats": {
+    "n_tips_total": 1355,
+    "n_tips_mapped_to_clade": 1351,
+    "target_tip_counts": {
+      "AIRT": 3,
+      "SILK": 4,
+      "YORK": 10,
+      "DALM": 9,
+      "WEIM": 10,
+      "DANE": 10
+    },
+    "n_clades_in_tree_mapping": 26
+  },
+  "tree_rankings": {
+    "AIRT": {
+      "breed_full": "Airedale Terrier",
+      "assigned_clade": "Terrier",
+      "n_tips": 3,
+      "rank_of_assigned": 2,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Hungarian",
+          "dist": 1026.3333333333333
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1067.4622871046229
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1097.6041666666667
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1113.1666666666667
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1124.095238095238
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Hungarian",
+          "dist": 1026.3333333333333
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1067.4622871046229
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1097.6041666666667
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1113.1666666666667
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1124.095238095238
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1190.6666666666667
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1258.939393939394
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 1302.6166666666666
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 1303.6666666666667
+        },
+        {
+          "clade": "Drover",
+          "dist": 1325.6666666666667
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 1333.9666666666667
+        },
+        {
+          "clade": "Poodle",
+          "dist": 1346.0694444444443
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 1364.1979166666667
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1370.469696969697
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 1386.939393939394
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 1395.496212121212
+        },
+        {
+          "clade": "Alpine",
+          "dist": 1395.5277777777778
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 1475.3333333333333
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 1510.0469483568074
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1530.314393939394
+        },
+        {
+          "clade": "UKRural",
+          "dist": 1542.232183908046
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1722.148681055156
+        },
+        {
+          "clade": "Wild",
+          "dist": 1738.0
+        },
+        {
+          "clade": "Basenji",
+          "dist": 1903.6666666666667
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 1914.6666666666667
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 1934.126843657817
+        }
+      ],
+      "rank_of_assigned_ex_hungarian": 1,
+      "n_clades_ranked_ex_hungarian": 25,
+      "top5_ex_hungarian": [
+        {
+          "clade": "Terrier",
+          "dist": 1067.4622871046229
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1097.6041666666667
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1113.1666666666667
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1124.095238095238
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1190.6666666666667
+        }
+      ],
+      "support_class_raw": "WEAK",
+      "support_class": "STRONG"
+    },
+    "SILK": {
+      "breed_full": "Silky Terrier",
+      "assigned_clade": "Terrier",
+      "n_tips": 4,
+      "rank_of_assigned": 2,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Hungarian",
+          "dist": 1136.6666666666667
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1152.889705882353
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1207.9375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1223.5
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1234.4285714285713
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Hungarian",
+          "dist": 1136.6666666666667
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1152.889705882353
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1207.9375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1223.5
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1234.4285714285713
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1301.0
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1369.2727272727273
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 1412.95
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 1414.0
+        },
+        {
+          "clade": "Drover",
+          "dist": 1436.0
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 1444.3
+        },
+        {
+          "clade": "Poodle",
+          "dist": 1456.4027777777778
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 1474.53125
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1480.8030303030303
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 1497.2727272727273
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 1505.8295454545455
+        },
+        {
+          "clade": "Alpine",
+          "dist": 1505.861111111111
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 1585.6666666666667
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 1620.380281690141
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1640.6477272727273
+        },
+        {
+          "clade": "UKRural",
+          "dist": 1652.5655172413792
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1832.4820143884892
+        },
+        {
+          "clade": "Wild",
+          "dist": 1848.3333333333333
+        },
+        {
+          "clade": "Basenji",
+          "dist": 2014.0
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 2025.0
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 2044.4601769911505
+        }
+      ],
+      "rank_of_assigned_ex_hungarian": 1,
+      "n_clades_ranked_ex_hungarian": 25,
+      "top5_ex_hungarian": [
+        {
+          "clade": "Terrier",
+          "dist": 1152.889705882353
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1207.9375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1223.5
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1234.4285714285713
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1301.0
+        }
+      ],
+      "support_class_raw": "WEAK",
+      "support_class": "STRONG"
+    },
+    "YORK": {
+      "breed_full": "Yorkshire Terrier",
+      "assigned_clade": "Terrier",
+      "n_tips": 10,
+      "rank_of_assigned": 2,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Hungarian",
+          "dist": 1278.5666666666666
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1309.3923076923077
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1349.8375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1365.4
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1376.3285714285714
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Hungarian",
+          "dist": 1278.5666666666666
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1309.3923076923077
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1349.8375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1365.4
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1376.3285714285714
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1442.9
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1511.1727272727273
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 1554.85
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 1555.9
+        },
+        {
+          "clade": "Drover",
+          "dist": 1577.9
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 1586.2
+        },
+        {
+          "clade": "Poodle",
+          "dist": 1598.3027777777777
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 1616.43125
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1622.7030303030303
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 1639.1727272727273
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 1647.7295454545454
+        },
+        {
+          "clade": "Alpine",
+          "dist": 1647.7611111111112
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 1727.5666666666666
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 1762.2802816901408
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1782.5477272727273
+        },
+        {
+          "clade": "UKRural",
+          "dist": 1794.4655172413793
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1974.382014388489
+        },
+        {
+          "clade": "Wild",
+          "dist": 1990.2333333333333
+        },
+        {
+          "clade": "Basenji",
+          "dist": 2155.9
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 2166.9
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 2186.3601769911506
+        }
+      ],
+      "rank_of_assigned_ex_hungarian": 1,
+      "n_clades_ranked_ex_hungarian": 25,
+      "top5_ex_hungarian": [
+        {
+          "clade": "Terrier",
+          "dist": 1309.3923076923077
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1349.8375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1365.4
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1376.3285714285714
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1442.9
+        }
+      ],
+      "support_class_raw": "WEAK",
+      "support_class": "STRONG"
+    },
+    "DALM": {
+      "breed_full": "Dalmatian",
+      "assigned_clade": "PointerSetter",
+      "n_tips": 9,
+      "rank_of_assigned": 11,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Hungarian",
+          "dist": 1084.2222222222222
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1176.3650793650793
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1224.358585858586
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1225.4930555555557
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1241.0555555555557
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Hungarian",
+          "dist": 1084.2222222222222
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1176.3650793650793
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1224.358585858586
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1225.4930555555557
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1241.0555555555557
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1260.828282828283
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 1266.828282828283
+        },
+        {
+          "clade": "Drover",
+          "dist": 1327.5555555555557
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 1360.5055555555555
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 1361.5555555555557
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1362.353023909986
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 1391.8555555555556
+        },
+        {
+          "clade": "Alpine",
+          "dist": 1397.4166666666667
+        },
+        {
+          "clade": "Poodle",
+          "dist": 1403.9583333333333
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1406.5555555555557
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 1421.385101010101
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 1422.0868055555557
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 1441.9358372456963
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1460.1055555555556
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 1533.2222222222222
+        },
+        {
+          "clade": "UKRural",
+          "dist": 1544.1210727969349
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1724.0375699440447
+        },
+        {
+          "clade": "Wild",
+          "dist": 1795.888888888889
+        },
+        {
+          "clade": "Basenji",
+          "dist": 1961.5555555555557
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 1972.5555555555557
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 1992.015732546706
+        }
+      ],
+      "rank_of_assigned_ex_hungarian": 10,
+      "n_clades_ranked_ex_hungarian": 25,
+      "top5_ex_hungarian": [
+        {
+          "clade": "NewWorld",
+          "dist": 1176.3650793650793
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1224.358585858586
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1225.4930555555557
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1241.0555555555557
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1260.828282828283
+        }
+      ],
+      "support_class_raw": "AGAINST",
+      "support_class": "AGAINST"
+    },
+    "WEIM": {
+      "breed_full": "Weimaraner",
+      "assigned_clade": "PointerSetter",
+      "n_tips": 10,
+      "rank_of_assigned": 2,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Hungarian",
+          "dist": 1338.6666666666667
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1413.0384615384614
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1430.8095238095239
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1478.8030303030303
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1479.9375
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Hungarian",
+          "dist": 1338.6666666666667
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1413.0384615384614
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1430.8095238095239
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1478.8030303030303
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1479.9375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1495.5
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1515.2727272727273
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 1521.2727272727273
+        },
+        {
+          "clade": "Drover",
+          "dist": 1582.0
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 1614.95
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 1616.0
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 1646.3
+        },
+        {
+          "clade": "Alpine",
+          "dist": 1651.861111111111
+        },
+        {
+          "clade": "Poodle",
+          "dist": 1658.4027777777778
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1661.0
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 1675.8295454545455
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 1676.53125
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 1696.380281690141
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1714.55
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 1787.6666666666667
+        },
+        {
+          "clade": "UKRural",
+          "dist": 1798.5655172413792
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1978.4820143884892
+        },
+        {
+          "clade": "Wild",
+          "dist": 2050.3333333333335
+        },
+        {
+          "clade": "Basenji",
+          "dist": 2216.0
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 2227.0
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 2246.4601769911505
+        }
+      ],
+      "rank_of_assigned_ex_hungarian": 1,
+      "n_clades_ranked_ex_hungarian": 25,
+      "top5_ex_hungarian": [
+        {
+          "clade": "PointerSetter",
+          "dist": 1413.0384615384614
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1430.8095238095239
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1478.8030303030303
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1479.9375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1495.5
+        }
+      ],
+      "support_class_raw": "WEAK",
+      "support_class": "STRONG"
+    },
+    "DANE": {
+      "breed_full": "Great Dane",
+      "assigned_clade": "EuropeanMastiff",
+      "n_tips": 10,
+      "rank_of_assigned": 6,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Alpine",
+          "dist": 1271.661111111111
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 1322.4666666666667
+        },
+        {
+          "clade": "Drover",
+          "dist": 1377.8
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1417.5142857142857
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1427.0727272727272
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Alpine",
+          "dist": 1271.661111111111
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 1322.4666666666667
+        },
+        {
+          "clade": "Drover",
+          "dist": 1377.8
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1417.5142857142857
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1427.0727272727272
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1436.2728682170543
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 1463.7375
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 1479.3
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 1598.75
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 1599.8
+        },
+        {
+          "clade": "Retriever",
+          "dist": 1610.6030303030302
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 1627.0727272727272
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 1630.1
+        },
+        {
+          "clade": "Poodle",
+          "dist": 1642.2027777777778
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 1644.8
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 1659.6295454545455
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 1660.33125
+        },
+        {
+          "clade": "UKRural",
+          "dist": 1678.3655172413794
+        },
+        {
+          "clade": "Terrier",
+          "dist": 1698.35
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 1750.1802816901409
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 1770.4477272727272
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 1771.4666666666667
+        },
+        {
+          "clade": "Wild",
+          "dist": 2034.1333333333334
+        },
+        {
+          "clade": "Basenji",
+          "dist": 2199.8
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 2210.8
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 2230.2601769911503
+        }
+      ],
+      "rank_of_assigned_ex_hungarian": 5,
+      "n_clades_ranked_ex_hungarian": 25,
+      "top5_ex_hungarian": [
+        {
+          "clade": "Alpine",
+          "dist": 1271.661111111111
+        },
+        {
+          "clade": "Drover",
+          "dist": 1377.8
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 1417.5142857142857
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 1427.0727272727272
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 1436.2728682170543
+        }
+      ],
+      "support_class_raw": "AGAINST",
+      "support_class": "AGAINST"
+    }
+  },
+  "ibs_rankings": {
+    "AIRT": {
+      "breed_full": "Airedale Terrier",
+      "assigned_clade": "Terrier",
+      "rank_of_assigned": 1,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Terrier",
+          "dist": 159.04519597639478
+        },
+        {
+          "clade": "UKRural",
+          "dist": 160.70672483982062
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 161.93179075660575
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 162.0405682560048
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 162.72832660457416
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Terrier",
+          "dist": 159.04519597639478
+        },
+        {
+          "clade": "UKRural",
+          "dist": 160.70672483982062
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 161.93179075660575
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 162.0405682560048
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 162.72832660457416
+        },
+        {
+          "clade": "Poodle",
+          "dist": 162.8872954407875
+        },
+        {
+          "clade": "Retriever",
+          "dist": 163.51554511548392
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 164.61013330074283
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 164.8320876798686
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 167.2862396616339
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 168.27156780193081
+        },
+        {
+          "clade": "Drover",
+          "dist": 168.52577420112857
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 168.81772662427554
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 169.34128637237754
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 169.79793845453418
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 169.9328789073356
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 170.79365446600096
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 171.7202364839995
+        },
+        {
+          "clade": "Alpine",
+          "dist": 172.26144543125136
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 174.95142269305788
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 175.10390848689437
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 180.40790034479883
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 183.51057689001308
+        },
+        {
+          "clade": "Wild",
+          "dist": 219.35814182981292
+        },
+        {
+          "clade": "Basenji",
+          "dist": 229.15137328621748
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 268.31215300590554
+        }
+      ],
+      "support_class": "STRONG"
+    },
+    "SILK": {
+      "breed_full": "Silky Terrier",
+      "assigned_clade": "Terrier",
+      "rank_of_assigned": 1,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Terrier",
+          "dist": 101.63506018004821
+        },
+        {
+          "clade": "UKRural",
+          "dist": 106.80481210188115
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 107.39622215389983
+        },
+        {
+          "clade": "Poodle",
+          "dist": 107.4662401257151
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 108.97141970195288
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Terrier",
+          "dist": 101.63506018004821
+        },
+        {
+          "clade": "UKRural",
+          "dist": 106.80481210188115
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 107.39622215389983
+        },
+        {
+          "clade": "Poodle",
+          "dist": 107.4662401257151
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 108.97141970195288
+        },
+        {
+          "clade": "Retriever",
+          "dist": 110.3116115802017
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 110.83102650213597
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 112.02905758821686
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 112.69847435490551
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 114.49800133367317
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 116.85771109490462
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 117.7039015277453
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 117.79952047022155
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 117.88750888063215
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 118.0493165992901
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 119.55405271664671
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 120.21607545489117
+        },
+        {
+          "clade": "Drover",
+          "dist": 120.59415737923443
+        },
+        {
+          "clade": "Alpine",
+          "dist": 123.23961566550064
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 125.912281083511
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 125.97470223497302
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 133.41119406514167
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 138.14599505563962
+        },
+        {
+          "clade": "Wild",
+          "dist": 181.98637782668828
+        },
+        {
+          "clade": "Basenji",
+          "dist": 194.79253980492
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 238.1887018390447
+        }
+      ],
+      "support_class": "STRONG"
+    },
+    "YORK": {
+      "breed_full": "Yorkshire Terrier",
+      "assigned_clade": "Terrier",
+      "rank_of_assigned": 1,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "Terrier",
+          "dist": 94.1370814177824
+        },
+        {
+          "clade": "UKRural",
+          "dist": 100.00958806426931
+        },
+        {
+          "clade": "Poodle",
+          "dist": 100.63306564641836
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 101.08987200194359
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 102.46491816282509
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "Terrier",
+          "dist": 94.1370814177824
+        },
+        {
+          "clade": "UKRural",
+          "dist": 100.00958806426931
+        },
+        {
+          "clade": "Poodle",
+          "dist": 100.63306564641836
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 101.08987200194359
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 102.46491816282509
+        },
+        {
+          "clade": "Retriever",
+          "dist": 103.71399536632445
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 103.72546313996433
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 105.21381433382962
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 105.96277354873733
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 108.20051956124331
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 110.63722101331022
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 111.1672008644608
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 111.28823602704777
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 111.60922380801274
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 111.87738719927782
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 113.39858567674979
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 113.73035792799378
+        },
+        {
+          "clade": "Drover",
+          "dist": 114.13571398417128
+        },
+        {
+          "clade": "Alpine",
+          "dist": 117.41142806520128
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 120.22519993777641
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 120.47917336300601
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 127.5546643571551
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 132.7502033711294
+        },
+        {
+          "clade": "Wild",
+          "dist": 178.44457924133602
+        },
+        {
+          "clade": "Basenji",
+          "dist": 191.32424483234047
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 235.70113583416915
+        }
+      ],
+      "support_class": "STRONG"
+    },
+    "DALM": {
+      "breed_full": "Dalmatian",
+      "assigned_clade": "PointerSetter",
+      "rank_of_assigned": 1,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "PointerSetter",
+          "dist": 111.38492365209038
+        },
+        {
+          "clade": "Terrier",
+          "dist": 112.0095372176964
+        },
+        {
+          "clade": "UKRural",
+          "dist": 112.7512238220899
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 113.92094163825988
+        },
+        {
+          "clade": "Poodle",
+          "dist": 113.9780309405504
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "PointerSetter",
+          "dist": 111.38492365209038
+        },
+        {
+          "clade": "Terrier",
+          "dist": 112.0095372176964
+        },
+        {
+          "clade": "UKRural",
+          "dist": 112.7512238220899
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 113.92094163825988
+        },
+        {
+          "clade": "Poodle",
+          "dist": 113.9780309405504
+        },
+        {
+          "clade": "Retriever",
+          "dist": 114.64385817601026
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 117.00731651605243
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 117.78998461783036
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 118.03923635773627
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 120.77326203023176
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 121.52127329961257
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 123.30289993028138
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 123.61463066513178
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 123.7263630057764
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 123.85329868722884
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 124.16615314591786
+        },
+        {
+          "clade": "Drover",
+          "dist": 125.39152765990123
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 126.0557364306765
+        },
+        {
+          "clade": "Alpine",
+          "dist": 127.46362180147355
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 130.55701286558363
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 131.23555382250777
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 138.54608575788694
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 144.09335007641755
+        },
+        {
+          "clade": "Wild",
+          "dist": 184.79334899470402
+        },
+        {
+          "clade": "Basenji",
+          "dist": 197.06158228190355
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 240.69003452507047
+        }
+      ],
+      "support_class": "STRONG"
+    },
+    "WEIM": {
+      "breed_full": "Weimaraner",
+      "assigned_clade": "PointerSetter",
+      "rank_of_assigned": 1,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "PointerSetter",
+          "dist": 129.919088406155
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 133.40491682210077
+        },
+        {
+          "clade": "Poodle",
+          "dist": 133.54472470182355
+        },
+        {
+          "clade": "Terrier",
+          "dist": 133.81157006914725
+        },
+        {
+          "clade": "UKRural",
+          "dist": 133.90127252495267
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "PointerSetter",
+          "dist": 129.919088406155
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 133.40491682210077
+        },
+        {
+          "clade": "Poodle",
+          "dist": 133.54472470182355
+        },
+        {
+          "clade": "Terrier",
+          "dist": 133.81157006914725
+        },
+        {
+          "clade": "UKRural",
+          "dist": 133.90127252495267
+        },
+        {
+          "clade": "Retriever",
+          "dist": 135.41126688657923
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 137.17132153034456
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 137.19015874900958
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 139.07376112774838
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 140.15468142574753
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 141.1806228662511
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 142.39298254368782
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 142.59083620133256
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 142.7095646509272
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 142.8492293370402
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 143.24580669379364
+        },
+        {
+          "clade": "Drover",
+          "dist": 143.80350224983954
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 144.3314991971591
+        },
+        {
+          "clade": "Alpine",
+          "dist": 146.01561203048368
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 148.9146406336201
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 149.3325298713875
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 155.32920459064593
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 160.9528456928763
+        },
+        {
+          "clade": "Wild",
+          "dist": 198.3842917257449
+        },
+        {
+          "clade": "Basenji",
+          "dist": 209.61756356185103
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 251.48001074950767
+        }
+      ],
+      "support_class": "STRONG"
+    },
+    "DANE": {
+      "breed_full": "Great Dane",
+      "assigned_clade": "EuropeanMastiff",
+      "rank_of_assigned": 3,
+      "n_clades_ranked": 26,
+      "top5": [
+        {
+          "clade": "UKRural",
+          "dist": 110.7789901305534
+        },
+        {
+          "clade": "Terrier",
+          "dist": 111.975552578967
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 112.93498565962956
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 113.83642288199965
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 114.09369209725553
+        }
+      ],
+      "ranked_all": [
+        {
+          "clade": "UKRural",
+          "dist": 110.7789901305534
+        },
+        {
+          "clade": "Terrier",
+          "dist": 111.975552578967
+        },
+        {
+          "clade": "EuropeanMastiff",
+          "dist": 112.93498565962956
+        },
+        {
+          "clade": "Mediterranean",
+          "dist": 113.83642288199965
+        },
+        {
+          "clade": "PointerSetter",
+          "dist": 114.09369209725553
+        },
+        {
+          "clade": "Retriever",
+          "dist": 115.42700820669445
+        },
+        {
+          "clade": "Poodle",
+          "dist": 115.80943843669317
+        },
+        {
+          "clade": "NewWorld",
+          "dist": 117.35663197097682
+        },
+        {
+          "clade": "ScentHound",
+          "dist": 119.20161199615762
+        },
+        {
+          "clade": "ContinentalHerder",
+          "dist": 120.65581605186019
+        },
+        {
+          "clade": "SmallSpitz",
+          "dist": 121.01404628001737
+        },
+        {
+          "clade": "Drover",
+          "dist": 122.50809435698288
+        },
+        {
+          "clade": "Alpine",
+          "dist": 123.24656250443701
+        },
+        {
+          "clade": "NordicSpitz",
+          "dist": 123.59694429782841
+        },
+        {
+          "clade": "AmericanTerrier",
+          "dist": 124.38263251107048
+        },
+        {
+          "clade": "ToySpitz",
+          "dist": 124.727047550726
+        },
+        {
+          "clade": "AmericanToy",
+          "dist": 125.14464978011182
+        },
+        {
+          "clade": "AsianToy",
+          "dist": 126.67505831292374
+        },
+        {
+          "clade": "Spaniel",
+          "dist": 126.89920891196766
+        },
+        {
+          "clade": "AsianSpitz",
+          "dist": 130.77977329223654
+        },
+        {
+          "clade": "Hungarian",
+          "dist": 131.9952521883747
+        },
+        {
+          "clade": "Schnauzer",
+          "dist": 138.48290160206992
+        },
+        {
+          "clade": "Pinscher",
+          "dist": 145.28780065249822
+        },
+        {
+          "clade": "Wild",
+          "dist": 185.17131656875802
+        },
+        {
+          "clade": "Basenji",
+          "dist": 198.28847878685949
+        },
+        {
+          "clade": "Unassigned",
+          "dist": 240.9736101514788
+        }
+      ],
+      "support_class": "WEAK"
+    }
+  },
+  "cross_check": {
+    "agreement_support_class": 0,
+    "total": 6,
+    "disagreements": [
+      "  Airedale Terrier: tree (raw) rank 2 [WEAK] vs IBS rank 1 [STRONG]",
+      "  Silky Terrier: tree (raw) rank 2 [WEAK] vs IBS rank 1 [STRONG]",
+      "  Yorkshire Terrier: tree (raw) rank 2 [WEAK] vs IBS rank 1 [STRONG]",
+      "  Dalmatian: tree (raw) rank 11 [AGAINST] vs IBS rank 1 [STRONG]",
+      "  Weimaraner: tree (raw) rank 2 [WEAK] vs IBS rank 1 [STRONG]",
+      "  Great Dane: tree (raw) rank 6 [AGAINST] vs IBS rank 3 [WEAK]"
+    ]
+  },
+  "bootstrap": {
+    "available": false,
+    "reports": {}
+  },
+  "summary_buckets": {
+    "STRONG": [],
+    "WEAK": [
+      "Airedale Terrier",
+      "Silky Terrier",
+      "Yorkshire Terrier",
+      "Weimaraner"
+    ],
+    "AGAINST": [
+      "Dalmatian",
+      "Great Dane"
+    ]
+  }
+}

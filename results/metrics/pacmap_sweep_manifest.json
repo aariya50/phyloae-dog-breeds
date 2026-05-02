@@ -1,0 +1,39 @@
+{
+  "neighbors": [
+    5,
+    10,
+    15,
+    30,
+    50,
+    100,
+    200
+  ],
+  "MN_ratios": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "FP_ratios": [
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "distances": [
+    "euclidean",
+    "angular",
+    "manhattan"
+  ],
+  "n_components": [
+    2,
+    3
+  ],
+  "seeds": [
+    7,
+    42,
+    99,
+    123,
+    256
+  ],
+  "num_runs": 2520
+}

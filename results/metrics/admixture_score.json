@@ -1,0 +1,886 @@
+{
+  "per_method_top20": {
+    "UMAP": [
+      {
+        "breed": "PARS",
+        "clade": "Terrier",
+        "score": 18.88456353377354
+      },
+      {
+        "breed": "WFOX",
+        "clade": "Terrier",
+        "score": 17.910430989715977
+      },
+      {
+        "breed": "JACK",
+        "clade": "Terrier",
+        "score": 17.225265410551017
+      },
+      {
+        "breed": "CKCS",
+        "clade": "Spaniel",
+        "score": 9.489003123421764
+      },
+      {
+        "breed": "ACKR",
+        "clade": "Spaniel",
+        "score": 9.148319365719853
+      },
+      {
+        "breed": "BASS",
+        "clade": "ScentHound",
+        "score": 5.371942936926531
+      },
+      {
+        "breed": "NORF",
+        "clade": "Terrier",
+        "score": 3.322082811734614
+      },
+      {
+        "breed": "CHIN",
+        "clade": "AsianToy",
+        "score": 3.1968313383700746
+      },
+      {
+        "breed": "NELK",
+        "clade": "NordicSpitz",
+        "score": 3.164389976682721
+      },
+      {
+        "breed": "SLOU_NAfrica",
+        "clade": "Mediterranean",
+        "score": 3.029698986859563
+      },
+      {
+        "breed": "AIRT",
+        "clade": "Terrier",
+        "score": 2.907712057545598
+      },
+      {
+        "breed": "MXOL",
+        "clade": "NewWorld",
+        "score": 2.5770308559554804
+      },
+      {
+        "breed": "ITGY",
+        "clade": "UKRural",
+        "score": 2.560359138377613
+      },
+      {
+        "breed": "PTWD",
+        "clade": "Poodle",
+        "score": 2.5302618865933515
+      },
+      {
+        "breed": "COOK",
+        "clade": "NewWorld",
+        "score": 2.5256223366329995
+      },
+      {
+        "breed": "GREY",
+        "clade": "UKRural",
+        "score": 2.49347874921128
+      },
+      {
+        "breed": "WHIP",
+        "clade": "UKRural",
+        "score": 2.4622642666863706
+      },
+      {
+        "breed": "BORZ",
+        "clade": "UKRural",
+        "score": 2.4615559029542986
+      },
+      {
+        "breed": "TIBS",
+        "clade": "AsianToy",
+        "score": 2.4507709846089374
+      },
+      {
+        "breed": "WEIM",
+        "clade": "PointerSetter",
+        "score": 2.435927025757491
+      }
+    ],
+    "PaCMAP": [
+      {
+        "breed": "KOMO",
+        "clade": "Mediterranean",
+        "score": 21.719312230613927
+      },
+      {
+        "breed": "MAAB_Italy",
+        "clade": "Mediterranean",
+        "score": 13.310075777920233
+      },
+      {
+        "breed": "BRUS",
+        "clade": "ToySpitz",
+        "score": 10.191468185487029
+      },
+      {
+        "breed": "COTO",
+        "clade": "Poodle",
+        "score": 10.017596658571067
+      },
+      {
+        "breed": "ICES",
+        "clade": "NordicSpitz",
+        "score": 8.319494669573611
+      },
+      {
+        "breed": "BMAL",
+        "clade": "ContinentalHerder",
+        "score": 6.364899806115091
+      },
+      {
+        "breed": "PUG",
+        "clade": "ToySpitz",
+        "score": 5.848327347242459
+      },
+      {
+        "breed": "SCOT",
+        "clade": "Terrier",
+        "score": 5.310066356521051
+      },
+      {
+        "breed": "BORZ",
+        "clade": "UKRural",
+        "score": 5.0167308605371534
+      },
+      {
+        "breed": "BEDT",
+        "clade": "Terrier",
+        "score": 4.8690921901731565
+      },
+      {
+        "breed": "GLEN",
+        "clade": "Terrier",
+        "score": 4.7755907753787215
+      },
+      {
+        "breed": "WEIM",
+        "clade": "PointerSetter",
+        "score": 4.194859998983631
+      },
+      {
+        "breed": "MXOL",
+        "clade": "NewWorld",
+        "score": 3.715019317102233
+      },
+      {
+        "breed": "OES",
+        "clade": "UKRural",
+        "score": 3.4310016230755327
+      },
+      {
+        "breed": "GSMD",
+        "clade": "Alpine",
+        "score": 3.4309484668936494
+      },
+      {
+        "breed": "CPAT_Italy",
+        "clade": "NewWorld",
+        "score": 3.4238060057896553
+      },
+      {
+        "breed": "AUSS",
+        "clade": "UKRural",
+        "score": 3.4090497677283547
+      },
+      {
+        "breed": "INCA",
+        "clade": "NewWorld",
+        "score": 3.3614997524706154
+      },
+      {
+        "breed": "AHRT",
+        "clade": "AmericanTerrier",
+        "score": 3.1291187886225758
+      },
+      {
+        "breed": "GSD",
+        "clade": "NewWorld",
+        "score": 3.1038862700973064
+      }
+    ],
+    "t-SNE": [
+      {
+        "breed": "DOBP",
+        "clade": "Drover",
+        "score": 14.687454989951256
+      },
+      {
+        "breed": "SSNZ",
+        "clade": "Schnauzer",
+        "score": 13.945475630715217
+      },
+      {
+        "breed": "AIRT",
+        "clade": "Terrier",
+        "score": 11.48278778643903
+      },
+      {
+        "breed": "PARS",
+        "clade": "Terrier",
+        "score": 9.837165901181681
+      },
+      {
+        "breed": "SKIP",
+        "clade": "ToySpitz",
+        "score": 8.115735494691865
+      },
+      {
+        "breed": "COTO",
+        "clade": "Poodle",
+        "score": 7.395732649584261
+      },
+      {
+        "breed": "JACK",
+        "clade": "Terrier",
+        "score": 7.31909569506029
+      },
+      {
+        "breed": "NEWF",
+        "clade": "Retriever",
+        "score": 5.16378264933578
+      },
+      {
+        "breed": "IWSP",
+        "clade": "Retriever",
+        "score": 5.03393220470216
+      },
+      {
+        "breed": "BOUV",
+        "clade": "ContinentalHerder",
+        "score": 4.915554222443
+      },
+      {
+        "breed": "DACH",
+        "clade": "ScentHound",
+        "score": 4.848612798134551
+      },
+      {
+        "breed": "CHIN",
+        "clade": "AsianToy",
+        "score": 4.431708746374305
+      },
+      {
+        "breed": "GPYR",
+        "clade": "Mediterranean",
+        "score": 4.1318411644970885
+      },
+      {
+        "breed": "SVAL",
+        "clade": "NordicSpitz",
+        "score": 4.045488369344385
+      },
+      {
+        "breed": "KOMO",
+        "clade": "Mediterranean",
+        "score": 4.044816691676551
+      },
+      {
+        "breed": "BRUS",
+        "clade": "ToySpitz",
+        "score": 3.880868938364394
+      },
+      {
+        "breed": "MAAB_Italy",
+        "clade": "Mediterranean",
+        "score": 3.7323846268180634
+      },
+      {
+        "breed": "ICES",
+        "clade": "NordicSpitz",
+        "score": 3.7134619590984603
+      },
+      {
+        "breed": "INCA",
+        "clade": "NewWorld",
+        "score": 3.3066355187599425
+      },
+      {
+        "breed": "PAPI",
+        "clade": "ToySpitz",
+        "score": 3.0752976395278955
+      }
+    ],
+    "TriMAP": [
+      {
+        "breed": "MAAB_Italy",
+        "clade": "Mediterranean",
+        "score": 387.3720749453285
+      },
+      {
+        "breed": "CIRN_Italy",
+        "clade": "Mediterranean",
+        "score": 385.01284425991594
+      },
+      {
+        "breed": "GPYR",
+        "clade": "Mediterranean",
+        "score": 124.58477713951257
+      },
+      {
+        "breed": "IBIZ",
+        "clade": "Mediterranean",
+        "score": 121.03437009441733
+      },
+      {
+        "breed": "KUVZ",
+        "clade": "Mediterranean",
+        "score": 115.61370755743086
+      },
+      {
+        "breed": "AFGH",
+        "clade": "Mediterranean",
+        "score": 97.91294342739619
+      },
+      {
+        "breed": "KOMO",
+        "clade": "Mediterranean",
+        "score": 80.11010637158937
+      },
+      {
+        "breed": "PHAR",
+        "clade": "Mediterranean",
+        "score": 75.8461551169492
+      },
+      {
+        "breed": "LVMD_Italy",
+        "clade": "Mediterranean",
+        "score": 52.120763392276295
+      },
+      {
+        "breed": "SLOU_NAfrica",
+        "clade": "Mediterranean",
+        "score": 50.85501551480766
+      },
+      {
+        "breed": "SALU",
+        "clade": "Mediterranean",
+        "score": 49.935618981429926
+      },
+      {
+        "breed": "SALU_Tribal",
+        "clade": "Mediterranean",
+        "score": 39.077766520653675
+      },
+      {
+        "breed": "SALU_ArabPen",
+        "clade": "Mediterranean",
+        "score": 38.587052744777054
+      },
+      {
+        "breed": "AZWK_Mali",
+        "clade": "Mediterranean",
+        "score": 37.962761429442935
+      },
+      {
+        "breed": "ANAT",
+        "clade": "Mediterranean",
+        "score": 32.24714907605198
+      },
+      {
+        "breed": "BORZ",
+        "clade": "UKRural",
+        "score": 10.521820039204059
+      },
+      {
+        "breed": "RHOD",
+        "clade": "EuropeanMastiff",
+        "score": 8.981671764007068
+      },
+      {
+        "breed": "GLEN",
+        "clade": "Terrier",
+        "score": 7.166420176603746
+      },
+      {
+        "breed": "DALM",
+        "clade": "PointerSetter",
+        "score": 6.3829947424885916
+      },
+      {
+        "breed": "GSD",
+        "clade": "NewWorld",
+        "score": 5.533133098364377
+      }
+    ],
+    "PHATE": [
+      {
+        "breed": "PARS",
+        "clade": "Terrier",
+        "score": 19.60655182083358
+      },
+      {
+        "breed": "SSNZ",
+        "clade": "Schnauzer",
+        "score": 10.911579321394806
+      },
+      {
+        "breed": "JACK",
+        "clade": "Terrier",
+        "score": 10.725139431902132
+      },
+      {
+        "breed": "AIRT",
+        "clade": "Terrier",
+        "score": 10.575416159323597
+      },
+      {
+        "breed": "WOLF-Israel",
+        "clade": "Wild",
+        "score": 8.500228999726083
+      },
+      {
+        "breed": "YORK",
+        "clade": "Terrier",
+        "score": 7.52387252915636
+      },
+      {
+        "breed": "CHIN",
+        "clade": "AsianToy",
+        "score": 6.7259718797487515
+      },
+      {
+        "breed": "FINS",
+        "clade": "AsianSpitz",
+        "score": 5.888291329969268
+      },
+      {
+        "breed": "BERD",
+        "clade": "UKRural",
+        "score": 5.847677070486158
+      },
+      {
+        "breed": "PEKE",
+        "clade": "AsianToy",
+        "score": 5.697514226393533
+      },
+      {
+        "breed": "SVAL",
+        "clade": "NordicSpitz",
+        "score": 4.797095869363829
+      },
+      {
+        "breed": "SILK",
+        "clade": "Terrier",
+        "score": 4.55469634044904
+      },
+      {
+        "breed": "DACH",
+        "clade": "ScentHound",
+        "score": 4.185797308650471
+      },
+      {
+        "breed": "AZWK_Mali",
+        "clade": "Mediterranean",
+        "score": 3.7230634988423796
+      },
+      {
+        "breed": "NSDT",
+        "clade": "Retriever",
+        "score": 3.707127954783611
+      },
+      {
+        "breed": "SKIP",
+        "clade": "ToySpitz",
+        "score": 3.6818635393558226
+      },
+      {
+        "breed": "KERY",
+        "clade": "Terrier",
+        "score": 3.6220602491167604
+      },
+      {
+        "breed": "COLL",
+        "clade": "UKRural",
+        "score": 3.4244430871728335
+      },
+      {
+        "breed": "AUSS",
+        "clade": "UKRural",
+        "score": 3.363582025094723
+      },
+      {
+        "breed": "BOUV",
+        "clade": "ContinentalHerder",
+        "score": 3.3180317506772363
+      }
+    ],
+    "PhyloAE": [
+      {
+        "breed": "MAAB_Italy",
+        "clade": "Mediterranean",
+        "score": 17.478290660602017
+      },
+      {
+        "breed": "CIRN_Italy",
+        "clade": "Mediterranean",
+        "score": 10.277443339864982
+      },
+      {
+        "breed": "PHAR",
+        "clade": "Mediterranean",
+        "score": 9.265112059156966
+      },
+      {
+        "breed": "MXOL",
+        "clade": "NewWorld",
+        "score": 9.15439491312041
+      },
+      {
+        "breed": "KUVZ",
+        "clade": "Mediterranean",
+        "score": 5.337075030361647
+      },
+      {
+        "breed": "IBIZ",
+        "clade": "Mediterranean",
+        "score": 5.268792316859746
+      },
+      {
+        "breed": "AFGH",
+        "clade": "Mediterranean",
+        "score": 3.415565824496766
+      },
+      {
+        "breed": "KOMO",
+        "clade": "Mediterranean",
+        "score": 3.4153433627388674
+      },
+      {
+        "breed": "FINS",
+        "clade": "AsianSpitz",
+        "score": 3.371595130795979
+      },
+      {
+        "breed": "DACH",
+        "clade": "ScentHound",
+        "score": 3.2819349706124363
+      },
+      {
+        "breed": "INCA",
+        "clade": "NewWorld",
+        "score": 3.160269762943552
+      },
+      {
+        "breed": "BRUS",
+        "clade": "ToySpitz",
+        "score": 3.0553450131555384
+      },
+      {
+        "breed": "BORZ",
+        "clade": "UKRural",
+        "score": 2.9664332616814644
+      },
+      {
+        "breed": "BRIA",
+        "clade": "ContinentalHerder",
+        "score": 2.8715262249643945
+      },
+      {
+        "breed": "RHOD",
+        "clade": "EuropeanMastiff",
+        "score": 2.8527344179218495
+      },
+      {
+        "breed": "MNTY",
+        "clade": "Pinscher",
+        "score": 2.255628798713637
+      },
+      {
+        "breed": "AUST",
+        "clade": "Terrier",
+        "score": 2.2363916671616275
+      },
+      {
+        "breed": "GPYR",
+        "clade": "Mediterranean",
+        "score": 2.1738786722064445
+      },
+      {
+        "breed": "SILK",
+        "clade": "Terrier",
+        "score": 2.0514000201690292
+      },
+      {
+        "breed": "PAPI",
+        "clade": "ToySpitz",
+        "score": 1.9927260536131228
+      }
+    ]
+  },
+  "consensus_top20": [
+    {
+      "breed": "MAAB_Italy",
+      "parker_clade": "Mediterranean",
+      "mean_score": 71.06434502861227,
+      "per_method_scores": {
+        "UMAP": 1.5001951257528245,
+        "PaCMAP": 13.310075777920233,
+        "t-SNE": 3.7323846268180634,
+        "TriMAP": 387.3720749453285,
+        "PHATE": 2.9930490352519907,
+        "PhyloAE": 17.478290660602017
+      }
+    },
+    {
+      "breed": "CIRN_Italy",
+      "parker_clade": "Mediterranean",
+      "mean_score": 66.98910490034321,
+      "per_method_scores": {
+        "UMAP": 1.1903120584839861,
+        "PaCMAP": 2.0204683085453183,
+        "t-SNE": 2.6117420774220723,
+        "TriMAP": 385.01284425991594,
+        "PHATE": 0.821819357826959,
+        "PhyloAE": 10.277443339864982
+      }
+    },
+    {
+      "breed": "GPYR",
+      "parker_clade": "Mediterranean",
+      "mean_score": 22.43676052113298,
+      "per_method_scores": {
+        "UMAP": 1.4829084604730256,
+        "PaCMAP": 1.3412922889493801,
+        "t-SNE": 4.1318411644970885,
+        "TriMAP": 124.58477713951257,
+        "PHATE": 0.9058654011593725,
+        "PhyloAE": 2.1738786722064445
+      }
+    },
+    {
+      "breed": "IBIZ",
+      "parker_clade": "Mediterranean",
+      "mean_score": 22.299869486299176,
+      "per_method_scores": {
+        "UMAP": 1.427575690783106,
+        "PaCMAP": 2.7820234280745977,
+        "t-SNE": 2.1206531835090554,
+        "TriMAP": 121.03437009441733,
+        "PHATE": 1.1658022041512155,
+        "PhyloAE": 5.268792316859746
+      }
+    },
+    {
+      "breed": "KUVZ",
+      "parker_clade": "Mediterranean",
+      "mean_score": 21.10132518944524,
+      "per_method_scores": {
+        "UMAP": 1.3472793152801448,
+        "PaCMAP": 1.3942321425857573,
+        "t-SNE": 0.8680581845242127,
+        "TriMAP": 115.61370755743086,
+        "PHATE": 2.0475989064888305,
+        "PhyloAE": 5.337075030361647
+      }
+    },
+    {
+      "breed": "KOMO",
+      "parker_clade": "Mediterranean",
+      "mean_score": 18.87284455081787,
+      "per_method_scores": {
+        "UMAP": 1.342874358325294,
+        "PaCMAP": 21.719312230613927,
+        "t-SNE": 4.044816691676551,
+        "TriMAP": 80.11010637158937,
+        "PHATE": 2.60461428996321,
+        "PhyloAE": 3.4153433627388674
+      }
+    },
+    {
+      "breed": "AFGH",
+      "parker_clade": "Mediterranean",
+      "mean_score": 17.612708251684435,
+      "per_method_scores": {
+        "UMAP": 0.680023550473402,
+        "PaCMAP": 1.784345817470598,
+        "t-SNE": 1.258466554041647,
+        "TriMAP": 97.91294342739619,
+        "PHATE": 0.6249043362280114,
+        "PhyloAE": 3.415565824496766
+      }
+    },
+    {
+      "breed": "PHAR",
+      "parker_clade": "Mediterranean",
+      "mean_score": 15.300988875494674,
+      "per_method_scores": {
+        "UMAP": 1.190307599187876,
+        "PaCMAP": 2.020526839663149,
+        "t-SNE": 2.4314790040462095,
+        "TriMAP": 75.8461551169492,
+        "PHATE": 1.0523526339646472,
+        "PhyloAE": 9.265112059156966
+      }
+    },
+    {
+      "breed": "LVMD_Italy",
+      "parker_clade": "Mediterranean",
+      "mean_score": 9.81743136714117,
+      "per_method_scores": {
+        "UMAP": 1.9754747104080141,
+        "PaCMAP": 0.7719796151084697,
+        "t-SNE": 0.9634717241434879,
+        "TriMAP": 52.120763392276295,
+        "PHATE": 1.9274580847615472,
+        "PhyloAE": 1.1454406761492038
+      }
+    },
+    {
+      "breed": "SLOU_NAfrica",
+      "parker_clade": "Mediterranean",
+      "mean_score": 9.515142049779806,
+      "per_method_scores": {
+        "UMAP": 3.029698986859563,
+        "PaCMAP": 0.7536613271624946,
+        "t-SNE": 1.0769608331281575,
+        "TriMAP": 50.85501551480766,
+        "PHATE": 1.2378285300945497,
+        "PhyloAE": 0.13768710662641465
+      }
+    },
+    {
+      "breed": "SALU",
+      "parker_clade": "Mediterranean",
+      "mean_score": 9.221446684269505,
+      "per_method_scores": {
+        "UMAP": 0.9498784688178938,
+        "PaCMAP": 0.7002764606520934,
+        "t-SNE": 1.0600969232498685,
+        "TriMAP": 49.935618981429926,
+        "PHATE": 0.8282717808957645,
+        "PhyloAE": 1.8545374905714858
+      }
+    },
+    {
+      "breed": "PARS",
+      "parker_clade": "Terrier",
+      "mean_score": 8.517887701434544,
+      "per_method_scores": {
+        "UMAP": 18.88456353377354,
+        "PaCMAP": 1.1970012187229127,
+        "t-SNE": 9.837165901181681,
+        "TriMAP": 0.846330415228222,
+        "PHATE": 19.60655182083358,
+        "PhyloAE": 0.7357133188673256
+      }
+    },
+    {
+      "breed": "AZWK_Mali",
+      "parker_clade": "Mediterranean",
+      "mean_score": 7.920789701148991,
+      "per_method_scores": {
+        "UMAP": 1.981377975963249,
+        "PaCMAP": 0.7932032637122104,
+        "t-SNE": 1.4631833339775726,
+        "TriMAP": 37.962761429442935,
+        "PHATE": 3.7230634988423796,
+        "PhyloAE": 1.6011487049556032
+      }
+    },
+    {
+      "breed": "SALU_Tribal",
+      "parker_clade": "Mediterranean",
+      "mean_score": 7.292247023648994,
+      "per_method_scores": {
+        "UMAP": 1.031186984251686,
+        "PaCMAP": 0.7279164488280865,
+        "t-SNE": 1.2321672843034341,
+        "TriMAP": 39.077766520653675,
+        "PHATE": 0.37420798268969324,
+        "PhyloAE": 1.3102369211673899
+      }
+    },
+    {
+      "breed": "SALU_ArabPen",
+      "parker_clade": "Mediterranean",
+      "mean_score": 7.227314400092385,
+      "per_method_scores": {
+        "UMAP": 0.9543218867981368,
+        "PaCMAP": 0.7244357177351356,
+        "t-SNE": 1.217689238082847,
+        "TriMAP": 38.587052744777054,
+        "PHATE": 0.41303292128344954,
+        "PhyloAE": 1.4673538918776803
+      }
+    },
+    {
+      "breed": "JACK",
+      "parker_clade": "Terrier",
+      "mean_score": 6.39415205204837,
+      "per_method_scores": {
+        "UMAP": 17.225265410551017,
+        "PaCMAP": 1.1970832611482356,
+        "t-SNE": 7.31909569506029,
+        "TriMAP": 1.0382767749411048,
+        "PHATE": 10.725139431902132,
+        "PhyloAE": 0.8600517386874377
+      }
+    },
+    {
+      "breed": "ANAT",
+      "parker_clade": "Mediterranean",
+      "mean_score": 6.226815733837124,
+      "per_method_scores": {
+        "UMAP": 1.1868211167359082,
+        "PaCMAP": 0.7900139140890233,
+        "t-SNE": 1.6589242920992209,
+        "TriMAP": 32.24714907605198,
+        "PHATE": 0.36044378344092587,
+        "PhyloAE": 1.1175422206056755
+      }
+    },
+    {
+      "breed": "AIRT",
+      "parker_clade": "Terrier",
+      "mean_score": 4.967168084339548,
+      "per_method_scores": {
+        "UMAP": 2.907712057545598,
+        "PaCMAP": 1.7259344991177048,
+        "t-SNE": 11.48278778643903,
+        "TriMAP": 1.570800299455754,
+        "PHATE": 10.575416159323597,
+        "PhyloAE": 1.5403577041556031
+      }
+    },
+    {
+      "breed": "SSNZ",
+      "parker_clade": "Schnauzer",
+      "mean_score": 4.832015594633664,
+      "per_method_scores": {
+        "UMAP": 0.8791196761016817,
+        "PaCMAP": 1.8779766418887442,
+        "t-SNE": 13.945475630715217,
+        "TriMAP": 0.8999470273396796,
+        "PHATE": 10.911579321394806,
+        "PhyloAE": 0.47799527036185646
+      }
+    },
+    {
+      "breed": "BORZ",
+      "parker_clade": "UKRural",
+      "mean_score": 4.262699549103734,
+      "per_method_scores": {
+        "UMAP": 2.4615559029542986,
+        "PaCMAP": 5.0167308605371534,
+        "t-SNE": 2.052010688718589,
+        "TriMAP": 10.521820039204059,
+        "PHATE": 2.557646541526836,
+        "PhyloAE": 2.9664332616814644
+      }
+    }
+  ],
+  "dimensions_used": {
+    "UMAP": 3,
+    "PaCMAP": 3,
+    "t-SNE": 2,
+    "TriMAP": 3,
+    "PHATE": 3,
+    "PhyloAE": 3
+  }
+}

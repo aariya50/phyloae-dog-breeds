@@ -1,0 +1,225 @@
+{
+  "per_method_pct_correct": {
+    "UMAP": 0.5085714285714286,
+    "PaCMAP": 0.3028571428571429,
+    "t-SNE": 0.44571428571428573,
+    "TriMAP": 0.4514285714285714,
+    "PHATE": 0.4857142857142857,
+    "PhyloAE": 0.64
+  },
+  "cross_method_misplaced": [
+    {
+      "breed": "AIRT",
+      "parker_clade": "Terrier",
+      "method_nearest": {
+        "UMAP": "Drover",
+        "PaCMAP": "ScentHound",
+        "t-SNE": "AmericanTerrier",
+        "TriMAP": "AmericanTerrier",
+        "PHATE": "NewWorld",
+        "PhyloAE": "AmericanTerrier"
+      }
+    },
+    {
+      "breed": "AUSS",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "NordicSpitz",
+        "PaCMAP": "Retriever",
+        "t-SNE": "Schnauzer",
+        "TriMAP": "Wild",
+        "PHATE": "AmericanToy",
+        "PhyloAE": "ScentHound"
+      }
+    },
+    {
+      "breed": "BORD",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "ScentHound",
+        "PaCMAP": "Terrier",
+        "t-SNE": "Schnauzer",
+        "TriMAP": "Pinscher",
+        "PHATE": "Retriever",
+        "PhyloAE": "ScentHound"
+      }
+    },
+    {
+      "breed": "BORZ",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "Schnauzer",
+        "PaCMAP": "AsianSpitz",
+        "t-SNE": "EuropeanMastiff",
+        "TriMAP": "NewWorld",
+        "PHATE": "Basenji",
+        "PhyloAE": "NewWorld"
+      }
+    },
+    {
+      "breed": "BRUS",
+      "parker_clade": "ToySpitz",
+      "method_nearest": {
+        "UMAP": "SmallSpitz",
+        "PaCMAP": "Hungarian",
+        "t-SNE": "SmallSpitz",
+        "TriMAP": "AmericanToy",
+        "PHATE": "Poodle",
+        "PhyloAE": "SmallSpitz"
+      }
+    },
+    {
+      "breed": "DANE",
+      "parker_clade": "EuropeanMastiff",
+      "method_nearest": {
+        "UMAP": "Retriever",
+        "PaCMAP": "Alpine",
+        "t-SNE": "Terrier",
+        "TriMAP": "Alpine",
+        "PHATE": "AmericanTerrier",
+        "PhyloAE": "Alpine"
+      }
+    },
+    {
+      "breed": "GREY",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "Basenji",
+        "PaCMAP": "AmericanTerrier",
+        "t-SNE": "Alpine",
+        "TriMAP": "Terrier",
+        "PHATE": "Alpine",
+        "PhyloAE": "ContinentalHerder"
+      }
+    },
+    {
+      "breed": "IBIZ",
+      "parker_clade": "Mediterranean",
+      "method_nearest": {
+        "UMAP": "AsianToy",
+        "PaCMAP": "AsianToy",
+        "t-SNE": "SmallSpitz",
+        "TriMAP": "Poodle",
+        "PHATE": "ContinentalHerder",
+        "PhyloAE": "Hungarian"
+      }
+    },
+    {
+      "breed": "ITGY",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "Alpine",
+        "PaCMAP": "NordicSpitz",
+        "t-SNE": "Terrier",
+        "TriMAP": "Pinscher",
+        "PHATE": "Alpine",
+        "PhyloAE": "Retriever"
+      }
+    },
+    {
+      "breed": "IWOF",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "Alpine",
+        "PaCMAP": "EuropeanMastiff",
+        "t-SNE": "EuropeanMastiff",
+        "TriMAP": "Terrier",
+        "PHATE": "EuropeanMastiff",
+        "PhyloAE": "EuropeanMastiff"
+      }
+    },
+    {
+      "breed": "KELP",
+      "parker_clade": "UKRural",
+      "method_nearest": {
+        "UMAP": "ScentHound",
+        "PaCMAP": "AsianSpitz",
+        "t-SNE": "Schnauzer",
+        "TriMAP": "ToySpitz",
+        "PHATE": "Retriever",
+        "PhyloAE": "AmericanTerrier"
+      }
+    },
+    {
+      "breed": "KOMO",
+      "parker_clade": "Mediterranean",
+      "method_nearest": {
+        "UMAP": "Basenji",
+        "PaCMAP": "Hungarian",
+        "t-SNE": "Hungarian",
+        "TriMAP": "Hungarian",
+        "PHATE": "Hungarian",
+        "PhyloAE": "Hungarian"
+      }
+    },
+    {
+      "breed": "MAAB_Italy",
+      "parker_clade": "Mediterranean",
+      "method_nearest": {
+        "UMAP": "Pinscher",
+        "PaCMAP": "Hungarian",
+        "t-SNE": "Hungarian",
+        "TriMAP": "Hungarian",
+        "PHATE": "NewWorld",
+        "PhyloAE": "Hungarian"
+      }
+    },
+    {
+      "breed": "PHAR",
+      "parker_clade": "Mediterranean",
+      "method_nearest": {
+        "UMAP": "AmericanTerrier",
+        "PaCMAP": "ToySpitz",
+        "t-SNE": "SmallSpitz",
+        "TriMAP": "AmericanToy",
+        "PHATE": "ContinentalHerder",
+        "PhyloAE": "Hungarian"
+      }
+    },
+    {
+      "breed": "PTWD",
+      "parker_clade": "Poodle",
+      "method_nearest": {
+        "UMAP": "Alpine",
+        "PaCMAP": "NordicSpitz",
+        "t-SNE": "ToySpitz",
+        "TriMAP": "PointerSetter",
+        "PHATE": "Hungarian",
+        "PhyloAE": "PointerSetter"
+      }
+    },
+    {
+      "breed": "SILK",
+      "parker_clade": "Terrier",
+      "method_nearest": {
+        "UMAP": "ContinentalHerder",
+        "PaCMAP": "ScentHound",
+        "t-SNE": "AmericanTerrier",
+        "TriMAP": "AmericanTerrier",
+        "PHATE": "Retriever",
+        "PhyloAE": "AmericanTerrier"
+      }
+    },
+    {
+      "breed": "YORK",
+      "parker_clade": "Terrier",
+      "method_nearest": {
+        "UMAP": "ContinentalHerder",
+        "PaCMAP": "ScentHound",
+        "t-SNE": "AmericanTerrier",
+        "TriMAP": "AmericanTerrier",
+        "PHATE": "Retriever",
+        "PhyloAE": "AmericanTerrier"
+      }
+    }
+  ],
+  "a_priori_recovered": [],
+  "dimensions_used": {
+    "UMAP": 3,
+    "PaCMAP": 3,
+    "t-SNE": 2,
+    "TriMAP": 3,
+    "PHATE": 3,
+    "PhyloAE": 3
+  }
+}

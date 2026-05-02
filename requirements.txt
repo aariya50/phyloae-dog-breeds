@@ -1,0 +1,11 @@
+matplotlib>=3.8
+numpy>=1.26
+pacmap>=0.7
+pandas>=2.1
+phate>=2.0
+plotly>=5.18
+scikit-learn>=1.4
+scikit-bio>=0.6.2
+trimap>=1.1
+torch>=2.0
+umap-learn>=0.5.5

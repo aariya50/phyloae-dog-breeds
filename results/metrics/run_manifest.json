@@ -1,0 +1,125 @@
+{
+  "root": "/Users/ariya/code/phyloae-dog-breeds",
+  "analysis_seed": 7,
+  "frozen_k_inventory": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "frozen_seeds": [
+    7,
+    42,
+    99,
+    123,
+    256
+  ],
+  "available_q_from_cache": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+  ],
+  "inputs": {
+    "raw_bed": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/data/All_Pure_150k.bed",
+      "size": 50894412,
+      "mtime": 1775336431.7129471,
+      "sha256_sample": "0cca80e1f8cfa8f860e1cc5c0289b5a5bd43d5c50fdced31f9ed88d05e8b6c8f"
+    },
+    "raw_bim": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/data/All_Pure_150k.bim",
+      "size": 4955009,
+      "mtime": 1775336433.9045186,
+      "sha256_sample": "958fa3b572104e994ed10f5493a0baa6089a84f2c718f9b792cba34184f84b29"
+    },
+    "raw_fam": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/data/All_Pure_150k.fam",
+      "size": 35517,
+      "mtime": 1775336434.140468,
+      "sha256_sample": "4674d8845ad1e1b1a48d170c14762ce80f51e40d940e031ea58085765dd64be9"
+    },
+    "pruned_bed": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/results/qc/all_qc_ldpruned.bed",
+      "size": 21200478,
+      "mtime": 1775904589.5261054,
+      "sha256_sample": "6347a44a4d54036f03f0cf192b212d480b81bd8e910f493466612a55ac8f681a"
+    },
+    "pruned_bim": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/results/qc/all_qc_ldpruned.bim",
+      "size": 2035747,
+      "mtime": 1775904589.9843462,
+      "sha256_sample": "4b9c9fdb0de35aa5bed686447bd4bb9bba2a4d6e07b57677ac5925391b879d41"
+    },
+    "pruned_fam": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/results/qc/all_qc_ldpruned.fam",
+      "size": 33707,
+      "mtime": 1775904590.2358382,
+      "sha256_sample": "087b8737fd719e1055e1a8ae4df50e3fa9f582696e2fd6eaa4712f94486697b7"
+    },
+    "raw_matrix": {
+      "path": "/Users/ariya/code/phyloae-dog-breeds/results/qc/all_qc_ldpruned_additive.raw",
+      "size": 170359974,
+      "mtime": 1775597315.0030308,
+      "sha256_sample": "f88a6086b32a539c062a1e941b772cfb8d0704281fe23f089f59a50c43b4f01e"
+    }
+  },
+  "method_summary_paths": {
+    "UMAP": "/Users/ariya/code/phyloae-dog-breeds/results/metrics/umap_sweep_summary.csv",
+    "PaCMAP": "/Users/ariya/code/phyloae-dog-breeds/results/metrics/pacmap_sweep_summary.csv",
+    "t-SNE": "/Users/ariya/code/phyloae-dog-breeds/results/metrics/tsne_sweep_summary.csv",
+    "TriMAP": "/Users/ariya/code/phyloae-dog-breeds/results/metrics/trimap_sweep_summary.csv",
+    "PHATE": "/Users/ariya/code/phyloae-dog-breeds/results/metrics/phate_sweep_summary.csv",
+    "PhyloAE": "/Users/ariya/code/phyloae-dog-breeds/results/metrics/phyloae_sweep_summary.csv"
+  }
+}

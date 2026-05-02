@@ -1,0 +1,44 @@
+{
+  "UMAP": {
+    "trustworthiness": 0.8694796311664992,
+    "silhouette_breed": 0.8181486312054612,
+    "seed_stability": 1.0,
+    "n_components": 3,
+    "composite": 1.6876282623719603
+  },
+  "PaCMAP": {
+    "trustworthiness": 0.8326979421507141,
+    "silhouette_breed": 0.8557300933506151,
+    "seed_stability": 0.5068561455996011,
+    "n_components": 3,
+    "composite": 1.6884280355013292
+  },
+  "t-SNE": {
+    "trustworthiness": 0.931755860121348,
+    "silhouette_breed": 0.8406301328118949,
+    "seed_stability": 0.855946148092745,
+    "n_components": 2,
+    "composite": 1.772385992933243
+  },
+  "TriMAP": {
+    "trustworthiness": 0.7756414912263725,
+    "silhouette_breed": 0.0690321126537567,
+    "seed_stability": 0.7040638244826727,
+    "n_components": 3,
+    "composite": 0.8446736038801292
+  },
+  "PHATE": {
+    "trustworthiness": 0.896816061766216,
+    "silhouette_breed": 0.627100969521067,
+    "seed_stability": 0.6265270506108203,
+    "n_components": 3,
+    "composite": 1.523917031287283
+  },
+  "PhyloAE": {
+    "trustworthiness": 0.9153717687318778,
+    "silhouette_breed": 0.7736258563985153,
+    "seed_stability": 0.6091747693841935,
+    "n_components": 3,
+    "composite": 1.688997625130393
+  }
+}

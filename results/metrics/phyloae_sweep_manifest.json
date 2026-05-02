@@ -1,0 +1,43 @@
+{
+  "hidden_dims_list": [
+    [
+      512,
+      64
+    ],
+    [
+      1024,
+      128
+    ]
+  ],
+  "lrs": [
+    0.001,
+    0.0003
+  ],
+  "lambda_breeds": [
+    0.1,
+    1.0,
+    10.0
+  ],
+  "lambda_clades": [
+    0.1,
+    1.0
+  ],
+  "max_epochs": 500,
+  "n_components": [
+    2,
+    3
+  ],
+  "seeds": [
+    42,
+    123,
+    256,
+    789,
+    1337
+  ],
+  "target_metrics": [
+    "euclidean",
+    "manhattan",
+    "cosine"
+  ],
+  "num_runs": 720
+}

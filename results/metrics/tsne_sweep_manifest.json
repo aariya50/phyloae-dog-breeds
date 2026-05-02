@@ -1,0 +1,28 @@
+{
+  "perplexities": [
+    5,
+    10,
+    15,
+    30,
+    50,
+    100
+  ],
+  "metrics": [
+    "euclidean",
+    "cosine",
+    "correlation",
+    "manhattan"
+  ],
+  "n_components": [
+    2,
+    3
+  ],
+  "seeds": [
+    7,
+    42,
+    99,
+    123,
+    256
+  ],
+  "num_runs": 240
+}

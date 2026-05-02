@@ -1,0 +1,35 @@
+{
+  "neighbors": [
+    5,
+    10,
+    15,
+    30,
+    50,
+    100,
+    200
+  ],
+  "min_dists": [
+    0.0,
+    0.1,
+    0.25,
+    0.5
+  ],
+  "metrics": [
+    "euclidean",
+    "cosine",
+    "correlation",
+    "manhattan"
+  ],
+  "n_components": [
+    2,
+    3
+  ],
+  "seeds": [
+    7,
+    42,
+    99,
+    123,
+    256
+  ],
+  "num_runs": 1120
+}

@@ -1,0 +1,42 @@
+{
+  "knn_values": [
+    5,
+    10,
+    15,
+    30,
+    50
+  ],
+  "decays": [
+    1,
+    5,
+    10,
+    40,
+    100
+  ],
+  "knn_dists": [
+    "euclidean",
+    "cosine",
+    "manhattan"
+  ],
+  "t_values": [
+    "auto",
+    2,
+    5
+  ],
+  "gammas": [
+    0,
+    1
+  ],
+  "n_components": [
+    2,
+    3
+  ],
+  "seeds": [
+    7,
+    42,
+    99,
+    123,
+    256
+  ],
+  "num_runs": 4500
+}

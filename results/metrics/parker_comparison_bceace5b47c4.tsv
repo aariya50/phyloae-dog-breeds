@@ -1,0 +1,6 @@
+feature	parker_pattern	our_value	comparison_flag
+tree_discreteness	supported internal clades in bootstrapped NJ tree	"{""label_name"": ""breed"", ""n_groups"": 175, ""n_internal_splits"": 172, ""n_support_ge_50"": 146, ""n_support_ge_70"": 127, ""n_support_ge_90"": 107, ""pct_support_ge_70"": 0.7383720930232558}"	mixed_pattern
+assignment_discreteness	island-like breeds imply high assignment purity	"{""mean_q_max"": 0.7011285400149588, ""mean_h_norm"": 0.4551576154242743, ""mean_k_eff"": 1.970986518312991}"	mixed_pattern
+within_vs_between_cohesion	within-clade sharing much larger than across-clade	distance-only fallback: ordered PCA-distance heatmap + within/between proxy	mixed_pattern
+migration_admixture	Treemix migration edges + haplotype sharing	not run; distance-only fallback used (Treemix/IBD unavailable in this run)	mixed_pattern
+embedding_separability	tight separable clusters	"{""broad"": {""K"": 8, ""ari"": 0.09519556354721619, ""nmi"": 0.37167246078733296, ""local_purity"": 0.949987534280728}, ""fine"": {""K"": 15, ""ari"": 0.16006311015343516, ""nmi"": 0.544224972728567, ""local_purity"": 0.943505360259287}}"	mixed_pattern
